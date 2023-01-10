@@ -1,0 +1,1 @@
+export interface moneyType { [key: string]: number }
